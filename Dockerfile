@@ -1,3 +1,3 @@
 FROM hshar/webapp
 ADD . /var/www/html
-ENV ayushi
+ENV ayushi ayushi
